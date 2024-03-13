@@ -13,7 +13,7 @@ nav {
    color:white;
     }
     
-    #navbar,#logo
+    #navbar,#logo,#socialmedia
     {
         list-style-type: none;
         display:flex;
