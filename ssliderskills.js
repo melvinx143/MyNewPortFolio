@@ -4,11 +4,11 @@ let prev=document.getElementById('prev');
 let text=document.getElementById('textforskills');
 let display=[
     {
-        sliderimg:'./icons8-css-48.png',
+        sliderimg:'./css.png',
         text:'CSS'
     },
     {
-        sliderimg:'./icons8-docker-48.png',
+        sliderimg:'./docker.png',
         text:'DOCKER'
     },
     {
@@ -16,15 +16,15 @@ let display=[
         text:'JAVASCRIPT'
     },
     {
-        sliderimg:'./icons8-css-48.png',
-        text:'CSS'
+        sliderimg:'./html5.png',
+        text:'HTML'
     },
     {
-        sliderimg:'./icons8-mongodb-a-cross-platform-document-oriented-database-program-24.png',
+        sliderimg:'./mongo.jpg',
         text:'MONGODB'
     },
     {
-        sliderimg:'./icons8-mysql-48.png',
+        sliderimg:'./sql.png',
         text:'MYSQL'
     },
     {
